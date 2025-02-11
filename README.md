@@ -1,7 +1,7 @@
 # SkullsGame
-A touchscreen game I made for my brother
+## A touchscreen game I made for my brother
 
-## This repository only includes the files I edited
+### This repository only includes the files I edited
 
 ### This guide assumes you know to use [PlatformIO](https://platformio.org/) with an ESP32doit-Devkit-v1
 
