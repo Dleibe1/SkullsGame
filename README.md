@@ -1,7 +1,7 @@
 # [SkullsGame](https://www.youtube.com/watch?v=m-HvHr4f4hM)
-## [A touchscreen game I made for my brother](https://www.youtube.com/watch?v=m-HvHr4f4hM)
+## A touchscreen game I made for my brother
 
-### This repository only includes the files I edited
+### This repository only includes the files I edited.
 
 ### This guide assumes you know to use the [PlatformIO extension](https://platformio.org/) in VSCode with an [ESP32doit-Devkit-v1](https://www.youtube.com/watch?v=m-HvHr4f4hM)
 
