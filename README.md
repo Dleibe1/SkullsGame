@@ -3,7 +3,13 @@
 
 ### This repository only includes the files I edited.
 
-### This guide assumes you know to use the [PlatformIO extension](https://platformio.org/) in VSCode with an [ESP32doit-Devkit-v1](https://www.youtube.com/watch?v=m-HvHr4f4hM)
+### This guide assumes you know to use the [PlatformIO extension](https://platformio.org/) in VSCode with an [ESP32doit-Devkit-v1](https://www.youtube.com/watch?v=m-HvHr4f4hM).
+
+### I'm also assuming you can infer all wiring for the Touchscreen by reading through the LovyanGFXSetup.hpp file.  All wiring for the led lights can be inferred by reading the main.cpp file.
+
+### Why did I even bother making a guide if it's this vague?
+
+Because somewhere out there is a Zombies Ate My Neighbors fan so dedicated to all things Zombies Ate My Neighbors that they will buy all the equipment and figure out how to do this even if it kills them.
 
 ## Instructions:
 
