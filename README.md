@@ -1,11 +1,11 @@
 # [SkullsGame](https://www.youtube.com/watch?v=m-HvHr4f4hM)
 ## A touchscreen game I made for my brother
 
-## This repository only includes the files I edited.  This is not a guide, just something to look through if you watched the video on YouTube.
+## This repository only includes the files I edited.  This is not a detailed guide, just something to look through if you watched the video on YouTube.
 
-### If you want to try this project, the following instructions assume you know to use the [PlatformIO extension](https://platformio.org/) in VSCode with an [ESP32doit-Devkit-v1](https://www.amazon.com/ESP-WROOM-32-Development-Dual-Mode-Microcontroller-Integrated/dp/B07WCG1PLV/ref=asc_df_B07WCG1PLV?mcid=7cc24e50dc423e8e9f1039421f865b8a&hvocijid=13685703578232806137-B07WCG1PLV-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=730434204848&hvpos=&hvnetw=g&hvrand=13685703578232806137&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007909&hvtargid=pla-2281435177138&th=1).
+### If you want to try this project, the following instructions assume you are familiar with the [PlatformIO extension](https://platformio.org/) in VSCode with an [ESP32doit-Devkit-v1](https://www.amazon.com/ESP-WROOM-32-Development-Dual-Mode-Microcontroller-Integrated/dp/B07WCG1PLV/ref=asc_df_B07WCG1PLV?mcid=7cc24e50dc423e8e9f1039421f865b8a&hvocijid=13685703578232806137-B07WCG1PLV-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=730434204848&hvpos=&hvnetw=g&hvrand=13685703578232806137&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007909&hvtargid=pla-2281435177138&th=1).
 
-### These instructions also assume you can infer all wiring for the Touchscreen by reading through the LovyanGFXSetup.hpp file.  All wiring for the led lights can be inferred by reading the main.cpp file.
+### These instructions also assume you can infer all wiring for the Touchscreen by reading through the LovyanGFXSetup.hpp file.  All wiring for the LED's can be inferred by reading the main.cpp file.  Good luck if you've read this far!
 
 ## Instructions:
 
