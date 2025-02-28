@@ -1,5 +1,6 @@
-# [SkullsGame](https://www.youtube.com/watch?v=m-HvHr4f4hM)
+# Skulls Game
 ## A touchscreen game I made for my brother
+### [Here's a video demonstration on Youtube](https://www.youtube.com/watch?v=m-HvHr4f4hM)
 
 ## This repository only includes the files I edited.  This is not a detailed guide, just something to look through if you watched the video on YouTube.
 
