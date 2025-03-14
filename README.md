@@ -5,7 +5,7 @@
 ## This repository only includes the files I edited.  
 I created this a long time ago before I started using github.  I found these files in my Google drive.  The only library I'm using is the LovyanGFX library.  If you can get your touchscreen hardware up and running with that library, this code will work for you.  There are lots of guides for setting up the LovyanGFX library with a touch screen display on YouTube.
 
-I created the [LovyanGFXSetup.hpp](https://github.com/Dleibe1/SkullsGame/blob/main/LovyanGFXSetup.hpp) file to configure the library with my hardware and wiring.  Sorry I don't recall all the details.
+I created the [LovyanGFXSetup.hpp](https://github.com/Dleibe1/SkullsGame/blob/main/LovyanGFXSetup.hpp) file to configure the library for my set of hardware.
 
 Also place [zombiePictures.hpp](zombiePictures.hpp) into the project's source folder (the same folder where main.cpp is found).
 
