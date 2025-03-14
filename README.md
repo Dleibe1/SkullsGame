@@ -1,6 +1,6 @@
 # Skulls Game
 ## A touchscreen game I made for my brother
-### [Here's a video demonstration on Youtube](https://www.youtube.com/watch?v=m-HvHr4f4hM)
+### [Here's a demonstration of the game on Youtube](https://www.youtube.com/watch?v=m-HvHr4f4hM)
 
 ## This repository only includes the files I edited.  
 I created this a long time ago before I started using GitHub.
