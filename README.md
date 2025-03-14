@@ -3,7 +3,7 @@
 ### [Here's a video demonstration on Youtube](https://www.youtube.com/watch?v=m-HvHr4f4hM)
 
 ## This repository only includes the files I edited.  
-I created this a few years ago before I started using github.  This project demonstrates what you can do with the LovyanGFX library and a touch screen.
+I created this a long time ago before I started using github.  I found these files in my Google drive.  This project demonstrates what you can do with the LovyanGFX library and a touch screen.
 
 I created the [LovyanGFXSetup.hpp](https://github.com/Dleibe1/SkullsGame/blob/main/LovyanGFXSetup.hpp) file for my particular touch screen display (purchase link below).  I import this file into my [main.cpp](https://github.com/Dleibe1/SkullsGame/blob/main/main.cpp) file instead of LovyanGFX.hpp.  I made this file going off of a guide on youtube just to a search for LovyanGFX libary and you'll find videos to help you get set up.
 
