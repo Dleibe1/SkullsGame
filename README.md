@@ -5,11 +5,7 @@
 ## This repository only includes the files I edited.  
 I created this a few years ago before I started using github.  This project demonstrates what you can do with the LovyanGFX library and a touch screen.
 
-## Instructions:
-
-Add LovyanGFX version 1.1.9 to your project using PlatformIO's library manager.  The repo can be found here: [https://github.com/lovyan03/LovyanGFX](https://github.com/lovyan03/LovyanGFX)
-
-I created the LovyanGFXSetup.hpp file for my particular set of hardware and placed it in .pio/libdeps/esp32doit-devkit-v1/LovyanGFX/src.  Your setup may be different depending on which touchscreen and Micro Controller you use.  I then imported this file into my [main.cpp file](main.cpp) instead of LovyanGFX.hpp.
+I created the LovyanGFXSetup.hpp file for my particular touch screen display (purchase link below).
 
 Also place [zombiePictures.hpp](zombiePictures.hpp) into the project's source folder (the same folder where main.cpp is found).
 
