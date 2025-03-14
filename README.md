@@ -5,11 +5,6 @@
 ## This repository only includes the files I edited.  
 I created this a few years ago before I started using github.  This project demonstrates what you can do with the LovyanGFX library and a touch screen.
 
-### If you want to try this project, the following instructions assume you are familiar with the [PlatformIO extension](https://platformio.org/) in VSCode with an [ESP32doit-Devkit-v1](https://www.amazon.com/ESP-WROOM-32-Development-Dual-Mode-Microcontroller-Integrated/dp/B07WCG1PLV/ref=asc_df_B07WCG1PLV?mcid=7cc24e50dc423e8e9f1039421f865b8a&hvocijid=13685703578232806137-B07WCG1PLV-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=730434204848&hvpos=&hvnetw=g&hvrand=13685703578232806137&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007909&hvtargid=pla-2281435177138&th=1).
-
-
-All wiring for the Touchscreen can be inferred by reading through the [LovyanGFXSetup.hpp](LovyanGFXSetup.hpp) file.  Setting up the touch screen is a bit of a hassle.  The only way I can garuntee yours will work would be to use the same touch screen I did (purchase link below).
-
 ## Instructions:
 
 Add LovyanGFX version 1.1.9 to your project using PlatformIO's library manager.  The repo can be found here: [https://github.com/lovyan03/LovyanGFX](https://github.com/lovyan03/LovyanGFX)
